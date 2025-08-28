@@ -23,4 +23,4 @@
 
 ---
 ![Profile views](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/luca-rendina/luca-rendina/main/counter.json)
-
+<img src="https://github-profile-counter-dusky.vercel.app/api/pixel" width="1" height="1" alt="" />
