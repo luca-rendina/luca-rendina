@@ -22,4 +22,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=luca-rendina&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![Visits Badge](https://badges.pufler.dev/visits/luca-rendina/badge-it)](https://badges.pufler.dev)
+![Profile views](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/luca-rendina/luca-rendina/main/counter.json)
+<img src="https://github-profile-counter-dusky.vercel.app/api/pixel" width="1" height="1" alt="" />
